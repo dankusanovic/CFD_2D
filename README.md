@@ -2,7 +2,7 @@
 
 These are a Finite Difference, Finite Volume, and Finite Element Programs for the MIC-434 class at the Universidad Tecnica Federico Santa Maria.
 
-Computational Solid Mechanics in 2D (CDF_2D)
+Computational Fluid Dynamics in 2D (CDF_2D)
 ============================================
 
 **CFD_2D** is a software for solving fluid dynamics problem in 2D. The format and code struture are presented in each assignment. The software covers:
